@@ -1,0 +1,2 @@
+/countries /countries.json 200!
+/countries/* /:splat.json 200!
