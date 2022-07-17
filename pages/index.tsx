@@ -53,7 +53,11 @@ const Home: NextPage = () => {
       </main>
 
       <footer className={styles.footer}>
-        <a href="https://www.austinshelby.com/" target="_blank">
+        <a
+          rel="noreferrer"
+          href="https://www.austinshelby.com/"
+          target="_blank"
+        >
           Powered by Austin Shelby
         </a>
       </footer>

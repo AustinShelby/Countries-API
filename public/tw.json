@@ -1,28 +1,9 @@
 {
-  "id": "TWN",
   "iso2Code": "TW",
   "name": "Taiwan",
-  "region": {
-    "id": "EAS",
-    "iso2code": "Z4",
-    "value": "East Asia & Pacific"
-  },
-  "adminregion": {
-    "id": "",
-    "iso2code": "",
-    "value": ""
-  },
-  "incomeLevel": {
-    "id": "HIC",
-    "iso2code": "XD",
-    "value": "High income"
-  },
-  "lendingType": {
-    "id": "LNX",
-    "iso2code": "XX",
-    "value": "Not classified"
-  },
-  "capitalCity": "",
-  "longitude": "",
-  "latitude": ""
+  "region": "East Asia & Pacific",
+  "incomeLevel": "High income",
+  "capitalCity": "Taipei",
+  "longitude": 121.564468,
+  "latitude": 25.033
 }
