@@ -1,0 +1,28 @@
+{
+  "id": "KNA",
+  "iso2Code": "KN",
+  "name": "St. Kitts and Nevis",
+  "region": {
+    "id": "LCN",
+    "iso2code": "ZJ",
+    "value": "Latin America & Caribbean "
+  },
+  "adminregion": {
+    "id": "",
+    "iso2code": "",
+    "value": ""
+  },
+  "incomeLevel": {
+    "id": "HIC",
+    "iso2code": "XD",
+    "value": "High income"
+  },
+  "lendingType": {
+    "id": "IBD",
+    "iso2code": "XF",
+    "value": "IBRD"
+  },
+  "capitalCity": "Basseterre",
+  "longitude": "-62.7309",
+  "latitude": "17.3"
+}
